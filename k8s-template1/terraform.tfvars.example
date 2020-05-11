@@ -1,0 +1,5 @@
+project = "velvety-being-264610"
+disk_image_master = "ubuntu-1804-lts"
+disk_image_worker = "ubuntu-1804-lts"
+master_count=2
+worker_count=2
